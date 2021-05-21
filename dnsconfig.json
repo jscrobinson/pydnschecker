@@ -1,0 +1,299 @@
+[
+    {
+        "id": 1,
+        "ip": "208.67.222.220",
+        "provider": " OpenDNS",
+        "location": "Holtsville NY, United States",
+        "latitude": 38,
+        "longitude": -122,
+        "country": "US"
+    },
+    {
+        "id": 4,
+        "ip": "8.8.8.8",
+        "provider": " Google",
+        "location": "Mountain View CA, United States",
+        "latitude": 37.4059,
+        "longitude": -122.078,
+        "country": "US"
+    },
+    {
+        "id": 78,
+        "ip": "9.9.9.9",
+        "provider": "Quad9",
+        "location": "Berkeley, US",
+        "latitude": 37.8793,
+        "longitude": -122.265,
+        "country": "US"
+    },
+    {
+        "id": 70,
+        "ip": "98.113.146.9",
+        "provider": "Verizon Fios Business",
+        "location": "Brooklyn, United States",
+        "latitude": 40.7142,
+        "longitude": -74.0059,
+        "country": "US"
+    },
+    {
+        "id": 72,
+        "ip": "12.121.117.201",
+        "provider": "AT&amp;T Services",
+        "location": "Miami, United States",
+        "latitude": 26,
+        "longitude": -80,
+        "country": "US"
+    },
+    {
+        "id": 2,
+        "ip": "204.117.214.10",
+        "provider": " Sprint",
+        "location": "Canoga Park, CA, United States",
+        "latitude": 38.9259,
+        "longitude": -77.3973,
+        "country": "US"
+    },
+    {
+        "id": 73,
+        "ip": "205.171.202.66",
+        "provider": "CenturyLink",
+        "location": "United States",
+        "latitude": 38,
+        "longitude": -98,
+        "country": "US"
+    },
+    {
+        "id": 125,
+        "ip": "208.79.56.204",
+        "provider": "Fibernetics Corporation",
+        "location": "Brossard, Canada",
+        "latitude": 45,
+        "longitude": -73,
+        "country": "CA"
+    },
+    {
+        "id": 3,
+        "ip": "195.46.39.39",
+        "provider": " Skydns",
+        "location": "Yekaterinburg, Russian Federation",
+        "latitude": 57,
+        "longitude": 61,
+        "country": "RU"
+    },
+    {
+        "id": 38,
+        "ip": "5.11.11.5",
+        "provider": "Liquid Telecommunications Ltd",
+        "location": "Cullinan, South Africa",
+        "latitude": -26,
+        "longitude": 29,
+        "country": "ZA"
+    },
+    {
+        "id": 392,
+        "ip": "185.107.80.84",
+        "provider": "NForce Entertainment B.V.",
+        "location": "Roosendaal, Netherlands",
+        "latitude": 51.5308,
+        "longitude": 4.4652,
+        "country": "NL"
+    },
+    {
+        "id": 258,
+        "ip": "163.172.107.158",
+        "provider": "Online S.A.S.",
+        "location": "Paris, France",
+        "latitude": 48.8534,
+        "longitude": 2.3488,
+        "country": "FR"
+    },
+    {
+        "id": 372,
+        "ip": "212.230.255.1",
+        "provider": "Prioritytelecom Spain S.A.",
+        "location": "Madrid, Spain",
+        "latitude": 40.4165,
+        "longitude": -3.7025,
+        "country": "ES"
+    },
+    {
+        "id": 245,
+        "ip": "217.193.239.170",
+        "provider": "Swisscom AG",
+        "location": "Bern, Switzerland",
+        "latitude": 46.948,
+        "longitude": 7.4474,
+        "country": "CH"
+    },
+    {
+        "id": 214,
+        "ip": "83.137.41.9",
+        "provider": "nemox.net",
+        "location": "Innsbruck, Austria",
+        "latitude": 47.2626,
+        "longitude": 11.3945,
+        "country": "AT"
+    },
+    {
+        "id": 316,
+        "ip": "158.43.128.1",
+        "provider": "Verizon UK Limited",
+        "location": "London, United Kingdom",
+        "latitude": 51.5085,
+        "longitude": -0.1257,
+        "country": "GB"
+    },
+    {
+        "id": 5,
+        "ip": "83.97.97.3",
+        "provider": " NM NET APS",
+        "location": "Midtjylland, Denmark",
+        "latitude": 56.1567,
+        "longitude": 10.2107,
+        "country": "DK"
+    },
+    {
+        "id": 44,
+        "ip": "195.243.214.4",
+        "provider": "Deutsche Telekom AG",
+        "location": "Oberhausen, Germany",
+        "latitude": 50.5063,
+        "longitude": 6.4656,
+        "country": "DE"
+    },
+    {
+        "id": 39,
+        "ip": "200.56.224.11",
+        "provider": "Marcatel Com",
+        "location": "Monterrey, Mexico",
+        "latitude": 25.6666,
+        "longitude": -100.317,
+        "country": "MX"
+    },
+    {
+        "id": 302,
+        "ip": "200.248.178.54",
+        "provider": "Claro S.A",
+        "location": "Santa Cruz do Sul, Brazil",
+        "latitude": -29.7175,
+        "longitude": -52.4258,
+        "country": "BR"
+    },
+    {
+        "id": 334,
+        "ip": "103.26.250.4",
+        "provider": "Ohana Communications Sdn Bhd",
+        "location": "Kuala Lumpur, Malaysia",
+        "latitude": 3.1412,
+        "longitude": 101.687,
+        "country": "MY"
+    },
+    {
+        "id": 24,
+        "ip": "1.1.1.1",
+        "provider": "Cloudflare Inc",
+        "location": "Research, Australia",
+        "latitude": -38,
+        "longitude": 145,
+        "country": "AU"
+    },
+    {
+        "id": 27,
+        "ip": "61.8.0.113",
+        "provider": "Pacific Internet",
+        "location": "Melbourne, Australia",
+        "latitude": -33.8678,
+        "longitude": 151.207,
+        "country": "AU"
+    },
+    {
+        "id": 407,
+        "ip": "122.56.107.86",
+        "provider": "Global-Gateway Internet",
+        "location": "Auckland, New Zealand",
+        "latitude": -36.8666,
+        "longitude": 174.767,
+        "country": "NZ"
+    },
+    {
+        "id": 51,
+        "ip": "210.80.58.67",
+        "provider": "Verizon Business",
+        "location": "Singapore",
+        "latitude": 1.2896,
+        "longitude": 103.85,
+        "country": "SG"
+    },
+    {
+        "id": 336,
+        "ip": "164.124.101.2",
+        "provider": "LG Dacom Corporation",
+        "location": "Seoul, South Korea",
+        "latitude": 37.5682,
+        "longitude": 126.978,
+        "country": "KR"
+    },
+    {
+        "id": 64,
+        "ip": "114.114.115.119",
+        "provider": "International Pioneering Park",
+        "location": "China",
+        "latitude": 35,
+        "longitude": 114,
+        "country": "CN"
+    },
+    {
+        "id": 9,
+        "ip": "31.7.37.37",
+        "provider": "Teknet Yazlim",
+        "location": "Antalya, Turkey",
+        "latitude": 36.9081,
+        "longitude": 30.6955,
+        "country": "TR"
+    },
+    {
+        "id": 269,
+        "ip": "115.178.96.2",
+        "provider": "Kappa Internet Services Private Limited",
+        "location": "Kota, India",
+        "latitude": 25.1833,
+        "longitude": 75.8333,
+        "country": "IN"
+    },
+    {
+        "id": 357,
+        "ip": "125.209.116.22",
+        "provider": "Multinet Pakistan Pvt. Ltd",
+        "location": "Islamabad, Pakistan",
+        "latitude": 34,
+        "longitude": 73,
+        "country": "PK"
+    },
+    {
+        "id": 437,
+        "ip": "195.8.8.1",
+        "provider": "CPRMNET Backbone",
+        "location": "Lisbon, Portugal",
+        "latitude": 39,
+        "longitude": -9,
+        "country": "PT"
+    },
+    {
+        "id": 80,
+        "ip": "185.228.168.9",
+        "provider": "Daniel Cid",
+        "location": "Ireland",
+        "latitude": 53,
+        "longitude": -6,
+        "country": "IE"
+    },
+    {
+        "id": 427,
+        "ip": "114.130.5.6",
+        "provider": "Mango Teleservices Limited",
+        "location": "Dhaka, Bangladesh",
+        "latitude": 23.7104,
+        "longitude": 90.4074,
+        "country": "BD"
+    }
+]
